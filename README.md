@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para mainframes.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFSP.
-- 💼 Trabalhando como Analise Mainframe na Bradesco S.A.
+- 💼 Trabalhando como Analista Mainframe na Bradesco S.A.
 - 🌱 Aprendendo mais sobre ISPF, GDPS, CONTROL/M e Engenharia de Dados.
 
 ## Minhas Skills
