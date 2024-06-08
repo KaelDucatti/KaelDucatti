@@ -37,8 +37,10 @@
 <br/>
 
 <a href="https://github.com/KaelDucatti" title="Perfil do Mikael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaelDucatti&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaelDucatti&theme=tokyonight&show_icons=true" />
 </a>
+
+[![KaelDucatti](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelDucatti&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
