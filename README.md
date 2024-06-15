@@ -52,8 +52,8 @@
 ## GitHub Stats
 
 
-  ![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelDucatti&show_icons=true&theme=tokyonight) 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaelDucatti&theme=tokyonight)](https://git.io/streak-stats) 
+![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelDucatti&show_icons=true&theme=tokyonight) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaelDucatti&theme=tokyonight)
 
 
 
