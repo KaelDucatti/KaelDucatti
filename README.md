@@ -2,12 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=KaelDucatti&color=006bed)
 
+<br>
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para mainframes.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFSP.
 - 💼 Trabalhando como Analista Mainframe na Bradesco S.A.
 - 🌱 Aprendendo mais sobre ISPF, GDPS, CONTROL/M e Engenharia de Dados.
+
+<br>
 
 ## Minhas Skills
 
@@ -43,7 +47,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-<br/>
+<br>
 
 **GitHub Stats**
 
@@ -51,7 +55,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaelDucatti&theme=tokyonight)](https://git.io/streak-stats) 
 
 
-
+<br><br>
 
 ## Onde me encontrar
 
