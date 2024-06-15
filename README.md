@@ -47,12 +47,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-<br>
+<br><br>
 
-**GitHub Stats**
+## GitHub Stats
 
-![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelDucatti&show_icons=true&theme=tokyonight) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaelDucatti&theme=tokyonight)](https://git.io/streak-stats) 
+
+  ![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelDucatti&show_icons=true&theme=tokyonight) 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaelDucatti&theme=tokyonight)](https://git.io/streak-stats) 
+
 
 
 <br><br>
