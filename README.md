@@ -64,3 +64,5 @@
 [![Linkedin](https://img.shields.io/badge/-KaelDucatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mikaelducatti)](www.linkedin.com/in/mikaelducatti)
 [![Gmail Badge](https://img.shields.io/badge/-contato.mikaelducatti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.mikaelducatti@gmail.com)](mailto:contato.mikaelducatti@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/KaelDucatti?label=follow&style=social)](https://github.com/KaelDucatti/KaelDucatti)
+
+<br><br>
