@@ -40,7 +40,7 @@
 
 **SGBD**
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-F80000?style=for-the-badge&logo=microsoft&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0078D3?style=for-the-badge&logo=Microsoft&logoColor=white)
 
 
 <br>
