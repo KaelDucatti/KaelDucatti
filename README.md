@@ -40,7 +40,7 @@
 
 **SGBD**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-0078D3?style=for-the-badge&logo=Microsoft&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white))
 
 
 <br>
