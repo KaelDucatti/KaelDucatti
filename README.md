@@ -66,15 +66,6 @@
 
 <br><br>
 
-## GitHub Stats
-
-![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelDucatti&show_icons=true&theme=tokyonight) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaelDucatti&theme=tokyonight)
-
-
-
-<br><br>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-KaelDucatti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mikaelducatti)](www.linkedin.com/in/mikaelducatti)
