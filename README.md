@@ -6,9 +6,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para mainframes.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFSP.
-- 🌱 Aprendendo mais sobre PySpark, Databricks e outras ferramentas de Engenharia de Dados.
+- Desenvolvedor back-end focado na linguagem Python.
+- Estudando Análise e Desenvolvimento de Sistemas no IFSP.
+- Aprendendo mais sobre PySpark, Databricks e outras ferramentas de Engenharia de Dados.
 
 <br>
 
