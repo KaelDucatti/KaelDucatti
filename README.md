@@ -6,9 +6,8 @@
 
 ## Sobre mim
 
-- Engenheiro de Software e Dados
-- Estudante de Análise e Desenvolvimento de Sistemas no IFSP.
-
+- Software & Data Engineer
+- Working on Bradesco S.A and Natura &Co
 
 <br>
 
